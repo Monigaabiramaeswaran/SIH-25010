@@ -41,7 +41,8 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-![Uploading organic farming.jpg…]()
+![WhatsApp Image 2025-09-30 at 13 25 33_b27e057a](https://github.com/user-attachments/assets/c686b4cb-53d8-48cd-9e65-44f4dd1772ef)
+
 
 
 
