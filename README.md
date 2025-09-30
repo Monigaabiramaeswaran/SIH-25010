@@ -44,6 +44,7 @@ Agriculture, FoodTech & Rural Development
 ![Uploading organic farming.jpg…]()
 
 
+
 <h3>Sustainable farming for greener future</h3>
 <ul><li>Detailed explanation of the proposed solution
 The solution is a multilingual, AI-powered mobile application and chatbot that provides personalized crop advisory services. It integrates soil data, weather forecasts, and market trends to guide farmers in making informed decisions. With image-based pest detection, fertilizer guidance, and localized voice support, the system ensures inclusivity for digitally less-literate farmers. The platform also incorporates a feedback loop for continuous improvement and learning.</li>
